@@ -10,6 +10,7 @@ Neste README, forneceremos uma visão geral do conteúdo do projeto. Bom estudo!
 2. [Problema a resolver](#problema-a-resolver)
 3. [Solução](#solução)
 4. [Arquitetura](#arquitetura)
+5. [Referências](#referencia)
 
 ## Conceito
 
@@ -50,6 +51,9 @@ Ao aplicar os conceitos propostos pelo padrão Bridge, cada classe pode evoluir 
 - Ponte (Conexão): A ponte é o elemento essencial do padrão Bridge. Ela faz a conexão entre a abstração e a implementação. Ela é como uma referência a um objeto de implementação dentro da abstração. 
 
 - Classes Concretas (Implementações Específicas): As classes concretas representam objetos reais que usam o padrão Bridge. Elas herdam da abstração e instanciam uma implementação específica. 
+
+## Referências
+GAMMA, Erich et al. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. 1ª ed. São Paulo: Bookman, 2000.
 
 ## Contribuição
 
