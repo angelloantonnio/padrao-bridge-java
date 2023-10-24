@@ -10,7 +10,7 @@ Neste README, forneceremos uma visão geral do conteúdo do projeto. Bom estudo!
 2. [Problema a resolver](#problema-a-resolver)
 3. [Solução](#solução)
 4. [Arquitetura](#arquitetura)
-5. [Referências](#referencia)
+5. [Referências](#referências)
 
 ## Conceito
 
